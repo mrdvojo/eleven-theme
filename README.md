@@ -1,2 +1,2 @@
 # Eleven
-a Seleen UI theme
+a [@Seelen](https://github.com/eythaann/Seelen-UI) UI theme
